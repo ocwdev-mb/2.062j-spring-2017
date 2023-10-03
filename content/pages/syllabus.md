@@ -1,12 +1,12 @@
 ---
 content_type: page
-description: ''
+description: sdfsdf
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
-title: Syllabus
+title: Syllabusaa
 uid: 137033bb-371f-28e3-ee22-66f6d6d22673
 ---
-
 Course Meeting Times
 --------------------
 
